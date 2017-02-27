@@ -2,7 +2,6 @@
 extern crate hyper;
 extern crate futures;
 extern crate pretty_env_logger;
-//extern crate num_cpus;
 
 use futures::future::FutureResult;
 
